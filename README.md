@@ -6,7 +6,7 @@
 2. 체계적인 토론 진행!
 3. 영상으로 남는 나의 토론!
 
-- 웹 사이트: [https://debate-ducks.click](https://debate-ducks.click)
+- 웹 사이트: ~[https://debate-ducks.click](https://debate-ducks.click)~
 - 서버 저장소: [https://github.com/SuSang-YuHee/Debate-Ducks-Server](https://github.com/SuSang-YuHee/Debate-Ducks-Server)
 - 이전 버전 저장소: [https://github.com/codestates/debate-ducks](https://github.com/codestates/debate-ducks)
 
